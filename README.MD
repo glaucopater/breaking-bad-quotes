@@ -9,3 +9,5 @@ react-native run-android
 or
 
 react-native run-ios
+
+![Breaking Bade Quotes](/demo/breaking-bad-quotes.jpg)

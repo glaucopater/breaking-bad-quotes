@@ -53,7 +53,7 @@ export default class App extends React.Component {
             height: "100%",
             borderWidth: 1,
             borderColor: "#000",
-            backgroundColor: "blue",
+            backgroundColor: "#000",
             justifyContent: "flex-end",
             alignItems: "center"
           }}
