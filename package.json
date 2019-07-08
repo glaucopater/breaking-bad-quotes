@@ -1,0 +1,18 @@
+{
+  "name": "breaking-bad-quotes",
+  "version": "1.0.0",
+  "description": "No description",
+  "author": "Glauco Pater",
+  "private": true,
+  "dependencies": {
+    "react": "16.8.3",
+    "react-native": "0.59.8",
+    "axios": "0.19.0",
+    "react-native-paper": "2.15.2"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "ios": "react-native run-ios",
+    "android": "react-native run-android"
+  }
+}
