@@ -5,10 +5,9 @@
   "author": "Glauco Pater",
   "private": true,
   "dependencies": {
-    "react": "16.8.3",
-    "react-native": "0.59.8",
     "axios": "0.19.0",
-    "react-native-paper": "2.15.2"
+    "react": "16.8.3",
+    "react-native": "^0.60.0"
   },
   "scripts": {
     "start": "react-native start",
